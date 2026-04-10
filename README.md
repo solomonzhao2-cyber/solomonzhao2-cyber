@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Solomon (行光) Zhao 👋
+
+🎓 Computer Science Student @ The University of Auckland 
+💻 Tech Stack: Python | R | Data Analysis | Git 🎨 Creative: Motion Graphics (After Effects) & Digital Content Production 🌱 Currently focusing on Algorithmic Problem Solving and Statistical Modeling
+
+🚀 Core Projects
+
+* Data Analysis: Statistical modeling and visualization using R/ggplot2.
+* Software Dev: Algorithm design and OOP practices in Python.
+* Smart Home: IoT systems integration and network troubleshooting.
+
 
 <!--
 **solomonzhao2-cyber/solomonzhao2-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
