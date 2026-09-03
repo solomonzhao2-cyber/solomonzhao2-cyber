@@ -1,26 +1,28 @@
-## Hi, I'm Solomon (行光) Zhao 👋
+# Hi, I'm Solomon (XingGuang) Zhao 👋
 
-🎓 Computer Science Student @ The University of Auckland 
-💻 Tech Stack: Python | R | Data Analysis | Git 🎨 Creative: Motion Graphics (After Effects) & Digital Content Production 🌱 Currently focusing on Algorithmic Problem Solving and Statistical Modeling
+Computer Science & Statistics student at the University of Auckland, passionate about **Software Engineering**, **Data Analysis**, and **Object-Oriented System Architecture**.
 
-🚀 Core Projects
+---
 
-* Data Analysis: Statistical modeling and visualization using R/ggplot2.
-* Software Dev: Algorithm design and OOP practices in Python.
-* Smart Home: IoT systems integration and network troubleshooting.
+### 🛠️ Technical Skills
 
+- **Languages:** Java, Python, R, SQL
+- **Frameworks & Tools:** Git, GitHub, IntelliJ IDEA, PyCharm, RStudio, ggplot2
+- **Core Competencies:** Object-Oriented Programming (OOP), Data Analysis & Visualization, Algorithmic Logic, Agile & Scrum Workflows
 
-<!--
-**solomonzhao2-cyber/solomonzhao2-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📌 Highlighted Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Java Logic & Game Engine](https://github.com/solomonzhao2-cyber/java-guessing-game)**  
+  An interactive, logic-driven application engineered in Java, demonstrating clean Object-Oriented Design (OOP), abstract strategy design patterns, and robust error/boundary handling.
+
+- **[Auckland Music Web Application](https://github.com/solomonzhao2-cyber/auckland-music-web-app)**  
+  A collaborative Python web application focused on domain-driven entity modeling for playlist management and music reviews, built using Agile/Scrum development practices and Git feature-branch workflows.
+
+---
+
+### 📬 Connect with Me
+
+- **Email:** solomonzhao2@gmail.com
+- **GitHub:** [solomonzhao2-cyber](https://github.com/solomonzhao2-cyber)
